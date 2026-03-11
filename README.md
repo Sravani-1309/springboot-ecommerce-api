@@ -54,6 +54,7 @@ EcommerceApplication.java → Spring Boot main class
 Example structure:
 
 com.ecommerce
+
 ├── controller
 
 │   ├── UserController.java
