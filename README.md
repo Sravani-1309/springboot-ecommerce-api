@@ -52,36 +52,22 @@ model → entity classes
 EcommerceApplication.java → Spring Boot main class
 
 Example structure:
-
+```
 com.ecommerce
-
 ├── controller
-
 │   ├── UserController.java
-
 │   └── ProductController.java
-
 ├── service
-
 │   ├── UserService.java
-
 │   └── ProductService.java
-
 ├── repository
-
 │   ├── UserRepository.java
-
 │   └── ProductRepository.java
-
 ├── model
-
 │   ├── User.java
-
 │   └── Product.java
-
 └── EcommerceApplication.java
-
----
+```
 
 ## Database Configuration
 
