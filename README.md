@@ -55,17 +55,29 @@ Example structure:
 
 com.ecommerce
 ├── controller
+
 │   ├── UserController.java
+
 │   └── ProductController.java
+
 ├── service
+
 │   ├── UserService.java
+
 │   └── ProductService.java
+
 ├── repository
+
 │   ├── UserRepository.java
+
 │   └── ProductRepository.java
+
 ├── model
+
 │   ├── User.java
+
 │   └── Product.java
+
 └── EcommerceApplication.java
 
 ---
@@ -205,9 +217,3 @@ Example workflow:
 2. Open Postman
 3. Send HTTP requests to the endpoints
 4. Verify responses and database changes
-
----
-
-**Author**
-
-Sravani Reddy
